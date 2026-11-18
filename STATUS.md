@@ -30,10 +30,9 @@
  ## In progress
  
  Run both Dart files in DartPad or with Dart 3 and paste the real outputs into answers.pdf.
- 
- Complete Part G with three real errors from your own run.
- 
+  
  Add GitHub username and repository URL.
 
  Stuck on
+ 
  No confirmed runtime errors have been captured yet; do not invent debugging evidence.

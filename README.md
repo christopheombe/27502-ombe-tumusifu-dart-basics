@@ -2,8 +2,11 @@ Dart Basics Assignment
 
 Full name: Tumusifu Ombe Christophe
 Registration number: 27502
+
 D: 2
+
 T: 02 (integer value used in calculations: 2)
+
 GitHub username: christopheombe
 
 Required repository name

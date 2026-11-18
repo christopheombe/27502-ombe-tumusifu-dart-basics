@@ -4,7 +4,7 @@ Full name: Tumusifu Ombe Christophe
 Registration number: 27502
 D: 2
 T: 02 (integer value used in calculations: 2)
-GitHub username: ADD YOUR GITHUB USERNAME
+GitHub username: christopheombe
 
 Required repository name
 27502-ombe-tumusifu-dart-basics
